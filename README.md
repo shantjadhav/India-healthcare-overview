@@ -32,8 +32,14 @@ Leading cause of financial catastrophe for low-income families
 
 
 📊 Key Health Indicators (India, 2024 Estimates)
-IndicatorValueInfant Mortality Rate (IMR)~26 per 1,000 live birthsMaternal Mortality Ratio (MMR)~97 per 1,00,000 live birthsLife Expectancy~70 years Doctor Population Ratio~1:834 (WHO recommends 1:1000)Hospital Bed Density~1.4 per 1,000 populationPhysician Density0.74 per 1,000 (rural areas far lower)
-
+| Indicator | Value |
+|---|---|
+| Infant Mortality Rate (IMR) | ~26 per 1,000 live births |
+| Maternal Mortality Ratio (MMR) | ~97 per 1,00,000 live births |
+| Life Expectancy | ~70 years |
+| Doctor-Population Ratio | ~1:834 (WHO recommends 1:1000) |
+| Hospital Bed Density | ~1.4 per 1,000 population |
+| Physician Density | 0.74 per 1,000 (rural areas far lower) |
 Sources: National Health Profile 2022, SRS Statistical Report, WHO Global Health Observatory
 
 
